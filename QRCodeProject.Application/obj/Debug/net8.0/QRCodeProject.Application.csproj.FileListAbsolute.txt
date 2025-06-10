@@ -1,0 +1,11 @@
+D:\User\Рабочий стол\NNnnn\QRCodeProject\QRCodeProject\bin\Debug\net8.0\QRCodeProject.Application.deps.json
+D:\User\Рабочий стол\NNnnn\QRCodeProject\QRCodeProject\bin\Debug\net8.0\QRCodeProject.Application.dll
+D:\User\Рабочий стол\NNnnn\QRCodeProject\QRCodeProject\bin\Debug\net8.0\QRCodeProject.Application.pdb
+D:\User\Рабочий стол\NNnnn\QRCodeProject\QRCodeProject\obj\Debug\net8.0\QRCodeProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Рабочий стол\NNnnn\QRCodeProject\QRCodeProject\obj\Debug\net8.0\QRCodeProject.Application.AssemblyInfoInputs.cache
+D:\User\Рабочий стол\NNnnn\QRCodeProject\QRCodeProject\obj\Debug\net8.0\QRCodeProject.Application.AssemblyInfo.cs
+D:\User\Рабочий стол\NNnnn\QRCodeProject\QRCodeProject\obj\Debug\net8.0\QRCodeProject.Application.csproj.CoreCompileInputs.cache
+D:\User\Рабочий стол\NNnnn\QRCodeProject\QRCodeProject\obj\Debug\net8.0\QRCodeProject.Application.dll
+D:\User\Рабочий стол\NNnnn\QRCodeProject\QRCodeProject\obj\Debug\net8.0\refint\QRCodeProject.Application.dll
+D:\User\Рабочий стол\NNnnn\QRCodeProject\QRCodeProject\obj\Debug\net8.0\QRCodeProject.Application.pdb
+D:\User\Рабочий стол\NNnnn\QRCodeProject\QRCodeProject\obj\Debug\net8.0\ref\QRCodeProject.Application.dll
