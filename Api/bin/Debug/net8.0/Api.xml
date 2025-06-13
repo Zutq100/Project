@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api</name>
+    </assembly>
+    <members>
+        <member name="M:Api.Controllers.QrCodeControllers.CreateItem(Application.Handler.CreateQrCodeItemCommand,System.Threading.CancellationToken)">
+            <summary>
+            Создания Qr-кода на основе - названия мероприятия, пароля к мероприяютию, 
+            локации, даты начала, даты конца, false/true на весь день.
+            </summary>
+            <param name="client">ДТО для создания клиента</param>
+            <param name="cancellationToken">Токен для отмены выполнения задачи</param>
+            <returns>Возвращает код ответа 201</returns>
+        </member>
+        <member name="M:Api.Controllers.QrCodeControllers.GetItem(System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            Вовзращает массив бит Qr-кода по соответствующему идентификатору
+            </summary>
+            <param name="id">Идентификатор Qr-кода из базы данных</param>
+            <param name="cancellationToken">Токен для отмены выполнения задачи</param>
+            <returns> Id, массив бит Qr-кода, дату создания Qr-кода</returns>
+        </member>
+        <member name="M:Api.Controllers.QrCodeControllers.GetAllItems(System.Threading.CancellationToken)">
+            <summary>
+            Возвращает все Qr-коды из базы данных
+            </summary>
+            <param name="cancellationToken">Токен для отмены выполнения задачи</param>
+            <returns>Все Qr-коды из таблицы</returns>
+        </member>
+    </members>
+</doc>
