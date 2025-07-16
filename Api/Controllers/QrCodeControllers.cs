@@ -1,6 +1,7 @@
 ﻿using Application.DTO;
 using Application.Request;
 using MediatR;
+using QRCoder;
 
 namespace Api.Controllers
 {
@@ -63,5 +64,7 @@ namespace Api.Controllers
 
             return Ok(items);
         }
+
+
     }
 }

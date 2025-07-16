@@ -97,5 +97,78 @@
         "StatusCode": 0
       }
     ]
+  },
+  {
+    "ContainingType": "Auth.Api.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "auth/Account/Login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "returnUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Auth.Api.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "auth/Account/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DTO",
+        "Type": "Auth.Application.DTO.LoginAuthDataDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "returnUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Auth.Api.Controllers.AccountController",
+    "Method": "Logout",
+    "RelativePath": "auth/Account/Logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Auth.Api.Controllers.AccountController",
+    "Method": "Register",
+    "RelativePath": "auth/Account/Register",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Auth.Api.Controllers.AccountController",
+    "Method": "Register",
+    "RelativePath": "auth/Account/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DTO",
+        "Type": "Auth.Application.DTO.RegisterAuthDataDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

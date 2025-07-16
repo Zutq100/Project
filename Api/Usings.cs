@@ -6,3 +6,4 @@ global using Microsoft.AspNetCore.Mvc;
 global using MediatR;
 global using Application.Handler;
 global using Microsoft.EntityFrameworkCore.Design;
+global using Auth.Application.Extensions;

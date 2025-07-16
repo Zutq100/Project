@@ -13,6 +13,9 @@
         {
             var query = _dbContext.QrCodes.AsQueryable();
 
+            if (query.Count() < 0)
+                throw new ArgumentNullException(nameof(query));
+
             var items = await query.ToListAsync(cancellationToken);
 
             return items.Select(x => new QrCodeItemDTO(x.Id, x.BytesQrCode, x.DateOfCreation));

@@ -1,10 +1,10 @@
-using Application.Request;
 using Application.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
+
 
 builder.Services.AddSwaggerGen(options =>
 {
@@ -25,11 +25,19 @@ builder.Services.AddDbContext<QrCodeDbContext>(options =>
 builder.Services.AddScoped<IQrCodeService, QrCodeService>();
 
 builder.Services.AddMediatR(cfg =>
-    cfg.RegisterServicesFromAssembly(typeof(GetQrCodeItemQuery).Assembly));
+{
+    cfg.RegisterServicesFromAssemblies(
+        Application.AssemblyReference.Assemblies,
+        Auth.AssemblyReference.Assembly);
+});
+builder.Services.AddAuthService(builder.Configuration.GetConnectionString("AuthConnection"));
 
 var app = builder.Build();
 
 app.UseRouting();
+
+app.UseAuthentication();
+app.UseAuthorization();
 
 if (app.Environment.IsDevelopment())
 {
@@ -42,7 +50,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.MapControllers();
-
 
 app.Run();
 

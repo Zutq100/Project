@@ -24,3 +24,4 @@ D:\User\Рабочий стол\NNnnn\QRCodeProject\Domain\obj\Debug\net8.0\Doma
 D:\User\Рабочий стол\NNnnn\QRCodeProject\Domain\obj\Debug\net8.0\ref\Domain.dll
 D:\User\Рабочий стол\NNnnn\QRCodeProject\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
 D:\User\Рабочий стол\NNnnn\QRCodeProject\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\User\Рабочий стол\NNnnn\QRCodeProject\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache

@@ -3,32 +3,99 @@
   "WorkspaceRootPath": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\infrastructure\\efcore\\qrcodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\efcore\\qrcodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\infrastructure\\migrations\\20250611121103_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250611121103_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF93EF7B-68C3-445B-9951-D1966A4E8811}|Application\\Application.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\application\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF93EF7B-68C3-445B-9951-D1966A4E8811}|Application\\Application.csproj|solutionrelative:application\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\infrastructure\\migrations\\qrcodedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\qrcodedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\api\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|solutionrelative:api\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A43EC-282C-46BB-8C98-D6FFD3F41091}|Auth\\Auth.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\auth\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A43EC-282C-46BB-8C98-D6FFD3F41091}|Auth\\Auth.csproj|solutionrelative:auth\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A43EC-282C-46BB-8C98-D6FFD3F41091}|Auth\\Auth.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\auth\\application\\handlers\\loginauthdatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A43EC-282C-46BB-8C98-D6FFD3F41091}|Auth\\Auth.csproj|solutionrelative:auth\\application\\handlers\\loginauthdatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A43EC-282C-46BB-8C98-D6FFD3F41091}|Auth\\Auth.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\auth\\application\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A43EC-282C-46BB-8C98-D6FFD3F41091}|Auth\\Auth.csproj|solutionrelative:auth\\application\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A43EC-282C-46BB-8C98-D6FFD3F41091}|Auth\\Auth.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\auth\\domain\\models\\authdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A43EC-282C-46BB-8C98-D6FFD3F41091}|Auth\\Auth.csproj|solutionrelative:auth\\domain\\models\\authdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A43EC-282C-46BB-8C98-D6FFD3F41091}|Auth\\Auth.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\auth\\application\\dto\\authdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A43EC-282C-46BB-8C98-D6FFD3F41091}|Auth\\Auth.csproj|solutionrelative:auth\\application\\dto\\authdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A43EC-282C-46BB-8C98-D6FFD3F41091}|Auth\\Auth.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\auth\\infrastructure\\efcore\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A43EC-282C-46BB-8C98-D6FFD3F41091}|Auth\\Auth.csproj|solutionrelative:auth\\infrastructure\\efcore\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A43EC-282C-46BB-8C98-D6FFD3F41091}|Auth\\Auth.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\auth\\application\\handlers\\createauthdatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A43EC-282C-46BB-8C98-D6FFD3F41091}|Auth\\Auth.csproj|solutionrelative:auth\\application\\handlers\\createauthdatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\api\\controllers\\qrcodecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|solutionrelative:api\\controllers\\qrcodecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF93EF7B-68C3-445B-9951-D1966A4E8811}|Application\\Application.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\application\\dto\\qrcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF93EF7B-68C3-445B-9951-D1966A4E8811}|Application\\Application.csproj|solutionrelative:application\\dto\\qrcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A43EC-282C-46BB-8C98-D6FFD3F41091}|Auth\\Auth.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\auth\\auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{661A43EC-282C-46BB-8C98-D6FFD3F41091}|Auth\\Auth.csproj|solutionrelative:auth\\auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\User\\AppData\\Roaming\\Microsoft\\UserSecrets\\afb50154-ce87-42be-8f92-a777c8368e1a\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385953A6-E8FF-489B-9E45-32652FE91734}|Domain\\Domain.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\domain\\models\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385953A6-E8FF-489B-9E45-32652FE91734}|Domain\\Domain.csproj|solutionrelative:domain\\models\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF93EF7B-68C3-445B-9951-D1966A4E8811}|Application\\Application.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\application\\handler\\createqrcodeitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF93EF7B-68C3-445B-9951-D1966A4E8811}|Application\\Application.csproj|solutionrelative:application\\handler\\createqrcodeitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF93EF7B-68C3-445B-9951-D1966A4E8811}|Application\\Application.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\application\\dto\\qrcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF93EF7B-68C3-445B-9951-D1966A4E8811}|Application\\Application.csproj|solutionrelative:application\\dto\\qrcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\infrastructure\\efcore\\configure\\qrcodeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\efcore\\configure\\qrcodeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\infrastructure\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\infrastructure\\efcore\\qrcodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\efcore\\qrcodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF93EF7B-68C3-445B-9951-D1966A4E8811}|Application\\Application.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF93EF7B-68C3-445B-9951-D1966A4E8811}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF93EF7B-68C3-445B-9951-D1966A4E8811}|Application\\Application.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\application\\request\\getqrcodeitemqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,36 +114,20 @@
       "RelativeMoniker": "D:0:0:{DF93EF7B-68C3-445B-9951-D1966A4E8811}|Application\\Application.csproj|solutionrelative:application\\services\\iqrcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF93EF7B-68C3-445B-9951-D1966A4E8811}|Application\\Application.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\application\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF93EF7B-68C3-445B-9951-D1966A4E8811}|Application\\Application.csproj|solutionrelative:application\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{385953A6-E8FF-489B-9E45-32652FE91734}|Domain\\Domain.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\domain\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385953A6-E8FF-489B-9E45-32652FE91734}|Domain\\Domain.csproj|solutionrelative:domain\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\infrastructure\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\infrastructure\\migrations\\20250611121103_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250611121103_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\api\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|solutionrelative:api\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\infrastructure\\migrations\\qrcodedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25938F2D-9010-40CA-ACC1-EDCD0927A8F4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\qrcodedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{385953A6-E8FF-489B-9E45-32652FE91734}|Domain\\Domain.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{385953A6-E8FF-489B-9E45-32652FE91734}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D5D2374D-ABB3-4A2A-A5AA-9F4AF27DB766}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF93EF7B-68C3-445B-9951-D1966A4E8811}|Application\\Application.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DF93EF7B-68C3-445B-9951-D1966A4E8811}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{385953A6-E8FF-489B-9E45-32652FE91734}|Domain\\Domain.csproj|d:\\user\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nnnnn\\qrcodeproject\\domain\\models\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{385953A6-E8FF-489B-9E45-32652FE91734}|Domain\\Domain.csproj|solutionrelative:domain\\models\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\QRCodeProject.Api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -94,123 +145,72 @@
       "DocumentGroups": [
         {
           "DockedHeight": 358,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20250611121103_InitialCreate.cs",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\Migrations\\20250611121103_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250611121103_InitialCreate.cs",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\Migrations\\20250611121103_InitialCreate.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\20250611121103_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T11:32:29.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "QrCodeDbContext.cs",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\EFCore\\QrCodeDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\EFCore\\QrCodeDbContext.cs",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\EFCore\\QrCodeDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\EFCore\\QrCodeDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T19:01:57.17Z",
+              "WhenOpened": "2025-06-10T19:09:10.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QrCodeDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\Migrations\\QrCodeDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\QrCodeDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\Migrations\\QrCodeDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\QrCodeDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "CreateAuthDataHandler.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Auth\\Application\\Handlers\\CreateAuthDataHandler.cs",
+              "RelativeDocumentMoniker": "Auth\\Application\\Handlers\\CreateAuthDataHandler.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Auth\\Application\\Handlers\\CreateAuthDataHandler.cs",
+              "RelativeToolTip": "Auth\\Application\\Handlers\\CreateAuthDataHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T11:32:28.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T13:25:01.137Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "QrCodeControllers.cs",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Controllers\\QrCodeControllers.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\QrCodeControllers.cs",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Controllers\\QrCodeControllers.cs",
-              "RelativeToolTip": "Api\\Controllers\\QrCodeControllers.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwDYAAAAZAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Auth\\Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Auth\\Api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Auth\\Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Auth\\Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T22:01:55.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T13:12:31.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QrCodeDTO.cs",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\DTO\\QrCodeDTO.cs",
-              "RelativeDocumentMoniker": "Application\\DTO\\QrCodeDTO.cs",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\DTO\\QrCodeDTO.cs",
-              "RelativeToolTip": "Application\\DTO\\QrCodeDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Auth\\Application\\Extensions\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "Auth\\Application\\Extensions\\ServiceExtension.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Auth\\Application\\Extensions\\ServiceExtension.cs",
+              "RelativeToolTip": "Auth\\Application\\Extensions\\ServiceExtension.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:28:19.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateQrCodeItemHandler.cs",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Handler\\CreateQrCodeItemHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Handler\\CreateQrCodeItemHandler.cs",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Handler\\CreateQrCodeItemHandler.cs",
-              "RelativeToolTip": "Application\\Handler\\CreateQrCodeItemHandler.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:35:13.412Z"
+              "WhenOpened": "2025-07-02T12:59:32.262Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "GetQrCodeItemQueryHandler.cs",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Request\\GetQrCodeItemQueryHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Request\\GetQrCodeItemQueryHandler.cs",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Request\\GetQrCodeItemQueryHandler.cs",
-              "RelativeToolTip": "Application\\Request\\GetQrCodeItemQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABXAAAAAAAAAA==",
+              "Title": "AuthDataDTO.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Auth\\Application\\DTO\\AuthDataDTO.cs",
+              "RelativeDocumentMoniker": "Auth\\Application\\DTO\\AuthDataDTO.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Auth\\Application\\DTO\\AuthDataDTO.cs",
+              "RelativeToolTip": "Auth\\Application\\DTO\\AuthDataDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T11:05:47.49Z"
+              "WhenOpened": "2025-07-02T13:09:43.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetAllQrCodeItemsHandler.cs",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Request\\GetAllQrCodeItemsHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Request\\GetAllQrCodeItemsHandler.cs",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Request\\GetAllQrCodeItemsHandler.cs",
-              "RelativeToolTip": "Application\\Request\\GetAllQrCodeItemsHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T20:54:57.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Infrastructure.csproj",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-10T19:00:43.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Usings.cs",
               "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Usings.cs",
               "RelativeDocumentMoniker": "Application\\Usings.cs",
@@ -222,91 +222,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IQrCodeService.cs",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Services\\IQrCodeService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\IQrCodeService.cs",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Services\\IQrCodeService.cs",
-              "RelativeToolTip": "Application\\Services\\IQrCodeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACQAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Usings.cs",
+              "RelativeDocumentMoniker": "Api\\Usings.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Usings.cs",
+              "RelativeToolTip": "Api\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T20:47:25.724Z"
+              "WhenOpened": "2025-06-10T19:10:59.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Program.cs",
-              "RelativeDocumentMoniker": "Api\\Program.cs",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Program.cs",
-              "RelativeToolTip": "Api\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAABLAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Auth\\Infrastructure\\EFCore\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Auth\\Infrastructure\\EFCore\\AuthDbContext.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Auth\\Infrastructure\\EFCore\\AuthDbContext.cs",
+              "RelativeToolTip": "Auth\\Infrastructure\\EFCore\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T19:09:10.847Z"
+              "WhenOpened": "2025-07-02T12:51:15.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "QrCodeService.cs",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Services\\QrCodeService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\QrCodeService.cs",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Services\\QrCodeService.cs",
-              "RelativeToolTip": "Application\\Services\\QrCodeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "LoginAuthDataHandler.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Auth\\Application\\Handlers\\LoginAuthDataHandler.cs",
+              "RelativeDocumentMoniker": "Auth\\Application\\Handlers\\LoginAuthDataHandler.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Auth\\Application\\Handlers\\LoginAuthDataHandler.cs",
+              "RelativeToolTip": "Auth\\Application\\Handlers\\LoginAuthDataHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwCoAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T22:27:54.003Z"
+              "WhenOpened": "2025-07-16T09:59:48.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T13:57:49.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthData.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Auth\\Domain\\Models\\AuthData.cs",
+              "RelativeDocumentMoniker": "Auth\\Domain\\Models\\AuthData.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Auth\\Domain\\Models\\AuthData.cs",
+              "RelativeToolTip": "Auth\\Domain\\Models\\AuthData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:43:02.869Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Usings.cs",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\Usings.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Usings.cs",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\Usings.cs",
-              "RelativeToolTip": "Infrastructure\\Usings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T13:57:54.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QrCodeControllers.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Controllers\\QrCodeControllers.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\QrCodeControllers.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Controllers\\QrCodeControllers.cs",
+              "RelativeToolTip": "Api\\Controllers\\QrCodeControllers.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T19:01:32.788Z"
+              "WhenOpened": "2025-06-10T22:01:55.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Auth.csproj",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Auth\\Auth.csproj",
+              "RelativeDocumentMoniker": "Auth\\Auth.csproj",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Auth\\Auth.csproj",
+              "RelativeToolTip": "Auth\\Auth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-02T12:41:26.121Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Domain.csproj",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Domain\\Domain.csproj",
-              "RelativeToolTip": "Domain\\Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-10T19:01:15.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Application.csproj",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Application.csproj",
-              "RelativeDocumentMoniker": "Application\\Application.csproj",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Application.csproj",
-              "RelativeToolTip": "Application\\Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-10T19:01:17.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Api.csproj",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Api.csproj",
-              "RelativeDocumentMoniker": "Api\\Api.csproj",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Api.csproj",
-              "RelativeToolTip": "Api\\Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-10T19:01:19.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "QrCode.cs",
               "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Domain\\Models\\QrCode.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\QrCode.cs",
@@ -318,19 +330,211 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Usings.cs",
-              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Usings.cs",
-              "RelativeDocumentMoniker": "Api\\Usings.cs",
-              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Usings.cs",
-              "RelativeToolTip": "Api\\Usings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "secrets.json",
+              "DocumentMoniker": "D:\\User\\AppData\\Roaming\\Microsoft\\UserSecrets\\afb50154-ce87-42be-8f92-a777c8368e1a\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\afb50154-ce87-42be-8f92-a777c8368e1a\\secrets.json",
+              "ToolTip": "D:\\User\\AppData\\Roaming\\Microsoft\\UserSecrets\\afb50154-ce87-42be-8f92-a777c8368e1a\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\afb50154-ce87-42be-8f92-a777c8368e1a\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T14:19:06.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateQrCodeItemHandler.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Handler\\CreateQrCodeItemHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handler\\CreateQrCodeItemHandler.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Handler\\CreateQrCodeItemHandler.cs",
+              "RelativeToolTip": "Application\\Handler\\CreateQrCodeItemHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T19:10:59.293Z"
+              "WhenOpened": "2025-07-02T13:34:39.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T19:00:43.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\Usings.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Usings.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\Usings.cs",
+              "RelativeToolTip": "Infrastructure\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:01:32.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QrCodeDTO.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\DTO\\QrCodeDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\QrCodeDTO.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\DTO\\QrCodeDTO.cs",
+              "RelativeToolTip": "Application\\DTO\\QrCodeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:28:19.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T19:01:19.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QrCodeDbContext.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\EFCore\\QrCodeDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EFCore\\QrCodeDbContext.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\EFCore\\QrCodeDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\EFCore\\QrCodeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:01:57.17Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "QrCodeConfiguration.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\EFCore\\Configure\\QrCodeConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EFCore\\Configure\\QrCodeConfiguration.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\EFCore\\Configure\\QrCodeConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\EFCore\\Configure\\QrCodeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:11:41.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T19:01:17.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetQrCodeItemQueryHandler.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Request\\GetQrCodeItemQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Request\\GetQrCodeItemQueryHandler.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Request\\GetQrCodeItemQueryHandler.cs",
+              "RelativeToolTip": "Application\\Request\\GetQrCodeItemQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:05:47.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetAllQrCodeItemsHandler.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Request\\GetAllQrCodeItemsHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Request\\GetAllQrCodeItemsHandler.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Request\\GetAllQrCodeItemsHandler.cs",
+              "RelativeToolTip": "Application\\Request\\GetAllQrCodeItemsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T20:54:57.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QrCodeService.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Services\\QrCodeService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\QrCodeService.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Services\\QrCodeService.cs",
+              "RelativeToolTip": "Application\\Services\\QrCodeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:27:54.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IQrCodeService.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Services\\IQrCodeService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\IQrCodeService.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Application\\Services\\IQrCodeService.cs",
+              "RelativeToolTip": "Application\\Services\\IQrCodeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:47:25.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Domain\\Usings.cs",
+              "RelativeDocumentMoniker": "Domain\\Usings.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Domain\\Usings.cs",
+              "RelativeToolTip": "Domain\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:00:58.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250611121103_InitialCreate.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\Migrations\\20250611121103_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250611121103_InitialCreate.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\Migrations\\20250611121103_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250611121103_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:15:10.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "QrCodeDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\Migrations\\QrCodeDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\QrCodeDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Infrastructure\\Migrations\\QrCodeDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\QrCodeDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:32:28.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T19:01:15.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "libman.json",
               "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\QRCodeProject.Api\\libman.json",
               "RelativeDocumentMoniker": "QRCodeProject.Api\\libman.json",
@@ -341,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 33,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\User\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NNnnn\\QRCodeProject\\QRCodeProject\\Class1.cs",
               "RelativeDocumentMoniker": "QRCodeProject\\Class1.cs",

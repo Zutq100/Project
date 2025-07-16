@@ -1,4 +1,6 @@
-﻿namespace Application.Services
+﻿using System.Drawing;
+
+namespace Application.Services
 {
     public class QrCodeService : IQrCodeService
     {

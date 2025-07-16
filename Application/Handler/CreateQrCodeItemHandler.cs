@@ -1,10 +1,5 @@
 ﻿using Application.Services;
 using Domain.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Application.Handler
 {
@@ -20,6 +15,7 @@ namespace Application.Handler
         }
         public async Task<QrCodeCreateItemDTO> Handle(CreateQrCodeItemCommand request, CancellationToken cancellationToken)
         {
+
             var item = new QrCodeCreateItemDTO(request.Dto.subject, request.Dto.password, request.Dto.location, request.Dto.start, request.Dto.end, request.Dto.allDay);
             var bytesQrCode = _qrCodeService.GenerationCalendarEvent(request.Dto.subject, request.Dto.password, request.Dto.location, request.Dto.start, request.Dto.end, request.Dto.allDay);
 

@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace Application.DTO
 {
         public record QrCodeCreateItemDTO(
-            string subject,
-            string password,
-            string location,
+            string? subject,
+            string? password,
+            string? location,
             DateTimeOffset start,
             DateTimeOffset end,
             bool allDay);
@@ -18,4 +18,5 @@ namespace Application.DTO
             int id,
             byte[] bytesQrCode,
             DateTime dateOfCreation);
+
 }

@@ -1,0 +1,15 @@
+D:\User\Рабочий стол\NNnnn\QRCodeProject\Auth\bin\Debug\net8.0\Auth.deps.json
+D:\User\Рабочий стол\NNnnn\QRCodeProject\Auth\bin\Debug\net8.0\Auth.dll
+D:\User\Рабочий стол\NNnnn\QRCodeProject\Auth\bin\Debug\net8.0\Auth.pdb
+D:\User\Рабочий стол\NNnnn\QRCodeProject\Auth\obj\Debug\net8.0\Auth.csproj.AssemblyReference.cache
+D:\User\Рабочий стол\NNnnn\QRCodeProject\Auth\obj\Debug\net8.0\Auth.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Рабочий стол\NNnnn\QRCodeProject\Auth\obj\Debug\net8.0\Auth.AssemblyInfoInputs.cache
+D:\User\Рабочий стол\NNnnn\QRCodeProject\Auth\obj\Debug\net8.0\Auth.AssemblyInfo.cs
+D:\User\Рабочий стол\NNnnn\QRCodeProject\Auth\obj\Debug\net8.0\Auth.csproj.CoreCompileInputs.cache
+D:\User\Рабочий стол\NNnnn\QRCodeProject\Auth\obj\Debug\net8.0\Auth.sourcelink.json
+D:\User\Рабочий стол\NNnnn\QRCodeProject\Auth\obj\Debug\net8.0\Auth.dll
+D:\User\Рабочий стол\NNnnn\QRCodeProject\Auth\obj\Debug\net8.0\refint\Auth.dll
+D:\User\Рабочий стол\NNnnn\QRCodeProject\Auth\obj\Debug\net8.0\Auth.pdb
+D:\User\Рабочий стол\NNnnn\QRCodeProject\Auth\obj\Debug\net8.0\ref\Auth.dll
+D:\User\Рабочий стол\NNnnn\QRCodeProject\Auth\bin\Debug\net8.0\Auth.runtimeconfig.json
+D:\User\Рабочий стол\NNnnn\QRCodeProject\Auth\obj\Debug\net8.0\Auth.genruntimeconfig.cache
